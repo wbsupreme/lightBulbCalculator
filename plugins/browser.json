@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "lightbulbCalc"
+        }
+    }
+}
